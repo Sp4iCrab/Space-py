@@ -29,3 +29,7 @@ Maik: 1345
 Maik: 1345
 Bryan: 30
 John: 1345
+John: 1345
+Nano: 300
+Nano: 995
+test: 110
